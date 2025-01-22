@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my jour
 
 ---
 
-[Esiri Portfolio](Images/freyt.webp)
+[Esiri Portfolio]([Images/freyt.webp](https://github.com/Kmute11/Portfolio/blob/main/Images/freyt.webp))
 
 ## About Me
 
