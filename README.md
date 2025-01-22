@@ -6,6 +6,8 @@ Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my jour
 
 ---
 
+[Esiri Portfolio](Images/freyt.webp)
+
 ## About Me
 
 I am Okiemute Esiri, a seasoned cybersecurity professional with a strong background in penetration testing, vulnerability assessments, and application security. I am committed to delivering actionable insights to clients, ensuring compliance with industry standards, and providing strategic solutions to mitigate risks and strengthen security frameworks.
