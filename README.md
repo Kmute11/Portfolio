@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my journey, achievements, and expertise in cybersecurity, penetration testing, and technology. With over 5 years of experience in the field, I am passionate about securing systems, identifying vulnerabilities, and driving innovation to enhance digital security.
+Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my journey, achievements, and expertise in cybersecurity, penetration testing, and technology. With over 5 years of experience in the field, I am passionate about projects involving securing systems, identifying vulnerabilities, and driving innovation to enhance digital security.
 
 ---
 
