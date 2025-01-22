@@ -61,18 +61,12 @@ I am Okiemute Esiri, a seasoned cybersecurity professional with a strong backgro
 - Collaborated with development teams to integrate secure coding practices and enhance application security.
 - Produced technical and non-technical reports to align stakeholders.
 
-### Technical/Project Engineer, Bauer Group (February 2011 – December 2020)
-
+### Technical/Project Engineer, Bauer Group 
 - Provided sales and engineering support for BAUER Compressors Inc.
 - Maintained product lines and ensured delivery timelines while interacting with stakeholders.
 - Worked closely with engineering teams to develop and maintain product specifications.
-
-### Field Operation Technician, Eni Spa / Naoc (2001 – 2007)
-
-- Managed wellhead operations, process plant operations, tank farm gauging, and LACT unit operations.
-- Conducted pressure and flow readings, analyzed samples, and monitored system performance.
-- Prepared detailed reports and ensured compliance with operational standards.
-
+- 
+### Field Operation Technician, Eni Spa / Naoc 
 ---
 
 ## Education 📚
