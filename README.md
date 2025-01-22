@@ -6,7 +6,7 @@ Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my jour
 
 ---
 
-<div style="text-align: center;">
+<div style="align: center;">
 <img src="https://github.com/Kmute11/Portfolio/blob/main/Images/freyt.webp" width="500" height="auto">
 </div>
 
