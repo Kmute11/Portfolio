@@ -5,7 +5,7 @@
 Welcome to my GitHub portfolio! Here, you'll find a detailed showcase of my journey, achievements, and expertise in cybersecurity, penetration testing, and technology. With over 5 years of experience in the field, I am passionate about projects involving securing systems, identifying vulnerabilities, and driving innovation to enhance digital security.
 
 ---
-<img src="[https://i.imgur.com/your_image_link.jpg](https://github.com/Kmute11/Portfolio/blob/main/Images/freyt.webp)" width="300" height="auto">
+<img src="https://github.com/Kmute11/Portfolio/blob/main/Images/freyt.webp" width="300" height="auto">
 
 ## About Me
 
